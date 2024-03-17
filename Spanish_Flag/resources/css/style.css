@@ -1,0 +1,26 @@
+#flag {
+    width: 20em;
+    height: 14em;
+    background: #00A859;
+    position: relative;
+    top: 0;
+    left: 0;
+    font-size: 30px;
+    margin: auto;
+    border: 1px solid #d3d3d3;
+    width: 20em;
+    height: 6.3em;
+    line-height: 25px;
+    border-top: 4em solid #AA151B;
+    border-bottom: 4em solid #AA151B;
+    background-color: #F1BF00;
+    margin: auto;
+    position: relative;
+}
+
+img{
+    width: 5em;
+    height: 5em;
+    padding-left: 3em;
+    padding-top: 0.5em;
+}

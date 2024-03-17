@@ -1,0 +1,33 @@
+#flag {
+  width: 20em;
+  height: 14em;
+  background: #fff;
+  position: relative;
+  top: 0;
+  left: 0;
+  font-size: 30px;
+  margin: auto;
+  border: 1px solid #d3d3d3;
+}
+
+#flag:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  top: 0;
+  background: #00f;
+  width: 33%;
+  z-index: 4;
+}
+
+#flag:after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  background: #f00;
+  width: 33%;
+  z-index: 4;
+}

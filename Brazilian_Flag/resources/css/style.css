@@ -1,0 +1,232 @@
+.flag {
+    width: 20em;
+    height: 14em;
+    background: #00A859;
+    position: relative;
+    top: 0;
+    left: 0;
+    font-size: 30px;
+    margin: auto;
+  border: 1px solid #d3d3d3;
+}
+
+.yellow-top {
+    width: 1px;
+    height: 1px;
+    border: solid 8.3em transparent;
+    border-bottom: solid 5.3em #FFCC29;
+    border-top-width: 0;
+    position: absolute;
+    top: 1.7em;
+    left: 1.7em;
+}
+
+.yellow-bottom {
+    width: 1px;
+    height: 1px;
+    border: solid 8.3em transparent;
+    border-top: solid 5.3em #FFCC29;
+    border-bottom-width: 0;
+    position: absolute;
+    top: 7em;
+    left: 1.7em;
+}
+
+.globe-background {
+    width: 7em;
+    height: 7em;
+    background: #3E4095;
+    border-radius: 50%;
+    position: absolute;
+    top: 3.5em;
+    left: 6.5em;
+    overflow: hidden;
+}
+
+.white-splitter {
+    width: 17em;
+    height: 17em;
+    background: #FFF;
+    border-radius: 50%;
+    position: absolute;
+    top: 2em;
+    left: -7em;
+    overflow: hidden;
+}
+
+.globe-bottom {
+    width: 16em;
+    height: 16em;
+    background: #3E4095;
+    border-radius: 50%;
+    position: absolute;
+    top: 2.5em;
+    left: -6.5em;
+}
+
+.stars{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: #FFF;
+    position: absolute;
+}
+
+.stars:before {
+    content: "★";
+}
+
+.star-1:before {
+    font-size: 0.3em;
+}
+
+.star-2:before {
+    font-size: 0.25em;
+}
+
+.star-3:before {
+    font-size: 0.2em;
+}
+
+.star-4:before {
+    font-size: 0.14em;
+}
+
+.star-5:before {
+    font-size: 0.1em;
+}
+
+#star1 {
+    top: 2.15em;
+    left: .5em
+}
+
+#star2 {
+    top: 2.85em;
+    left: 2em
+}
+
+#star3 {
+    top: 3.3em;
+    left: 1.2em
+}
+
+#star4 {
+    top: 3.6em;
+    left: .8em
+}
+
+#star5 {
+    top: 3.9em;
+    left: 0.46em
+}
+
+#star6 {
+    top: 3.92em;
+    left: 1.52em
+}
+
+#star7 {
+    top: 4.25em;
+    left: 1.43em
+}
+
+#star8 {
+    top: 4.65em;
+    left: 1.9em
+}
+
+#star9 {
+    top: 3.3em;
+    left: 3.4em
+}
+
+#star10 {
+    top: 3.63em;
+    left: 2.95em
+}
+
+#star11 {
+    top: 3.8em;
+    left: 3.23em
+}
+
+#star12 {
+    top: 3.61em;
+    left: 3.72em
+}
+
+#star13 {
+    top: 4.35em;
+    left: 3.37em
+}
+
+#star14 {
+    top: 5.4em;
+    left: 3.45em
+}
+
+#star15{
+    top: 4.66em;
+    left: 4.13em
+}
+
+#star16 {
+    top: 5.11em;
+    left: 4.39em
+}
+
+#star17 {
+    top: 4.76em;
+    left: 4.74em
+}
+
+#star18 {
+    top: 5.38em;
+    left: 5.15em
+}
+
+#star19 {
+    top: 5.03em;
+    left: 5.13em
+}
+
+#star20 {
+    top: 4.67em;
+    left: 5.15em
+}
+
+#star21 {
+    top: 4.67em;
+    left: 5.48em
+}
+
+#star22 {
+    top: 4.54em;
+    left: 5.8em
+}
+
+#star23 {
+    top: 4.27em;
+    left: 5.95em
+}
+
+#star24 {
+    top: 3.95em;
+    left: 5.8em
+}
+
+#star25 {
+    top: 3.94em;
+    left: 6.35em
+}
+
+#star26 {
+    top: 2.47em;
+    left: 4.22em
+}
+
+#star27 {
+    top: 1.5em;
+    left: 4.43em
+}
